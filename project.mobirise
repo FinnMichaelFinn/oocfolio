@@ -1266,7 +1266,85 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Happy Birthday",
+                "active": false
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-2-28.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ImYhcBuSE84",
+                "image": "@PROJECT_PATH@/assets/images/cakesbybukky-baking-story-530x950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cakesbybukky-baking-story-530x950-530x950.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CakesByBukky Baking Story",
+                "active": false
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-7-46.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/a8duNBT6yKQ",
+                "image": "@PROJECT_PATH@/assets/images/trade-fair-story-517x945.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/trade-fair-story-517x945-517x945.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CakesByBukky Val I Story",
+                "active": false
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-7-10.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/eqReuEAZJLg",
+                "image": "@PROJECT_PATH@/assets/images/cakesbybukky-val-ii-story-530x950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cakesbybukky-val-ii-story-530x950-530x950.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "TED Invasion Story",
                 "active": true
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-14-4.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/Y25eU_ADWhg",
+                "image": "@PROJECT_PATH@/assets/images/ted-invasion-528x947.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ted-invasion-528x947-528x947.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CakesByBukky Val II Story",
+                "active": false
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-9-52.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/zL0OTsiGeU0",
+                "image": "@PROJECT_PATH@/assets/images/orphanage-visitation-526x950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orphanage-visitation-526x950-526x950.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Orphanage Visitation Story",
+                "active": false
+              },
+              {
+                "tags": "Story Videos",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019119-1510502019-1-2-16-11-39.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/4Rtzu_yz4KQ",
+                "image": "@PROJECT_PATH@/assets/images/cakesbybukky-val-ii-story-530x950.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cakesbybukky-val-ii-story-530x950-530x950.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Trade Fair Story",
+                "active": false
               }
             ]
           }
