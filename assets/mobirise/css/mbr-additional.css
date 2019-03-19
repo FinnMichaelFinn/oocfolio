@@ -1,4 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 @import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i);
+
+
+
+
 
 body {
   font-style: normal;
@@ -16,28 +21,28 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'Lato-Black';
+  font-family: 'Open Sans', sans-serif;
   font-size: 3rem;
 }
 .display-1 > .mbr-iconfont {
   font-size: 4.8rem;
 }
 .display-2 {
-  font-family: 'Lato-Light';
+  font-family: 'Open Sans', sans-serif;
   font-size: 1.4rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 2.24rem;
 }
 .display-4 {
-  font-family: 'Lato-Regular';
+  font-family: 'Open Sans', sans-serif;
   font-size: 0.8rem;
 }
 .display-4 > .mbr-iconfont {
   font-size: 1.28rem;
 }
 .display-5 {
-  font-family: 'Lato-Regular';
+  font-family: 'Open Sans', sans-serif;
   font-size: 1rem;
 }
 .display-5 > .mbr-iconfont {
@@ -679,6 +684,7 @@ a:hover {
   right: 0;
   top: 0;
   z-index: 0;
+  pointer-events: none;
 }
 blockquote {
   font-style: italic;
@@ -1376,6 +1382,17 @@ body {
   .card-wrapper {
     flex: auto!important;
   }
+}
+.jq-selectbox li:hover,
+.jq-selectbox li.selected {
+  background-color: #df873d;
+  color: #000000;
+}
+.jq-selectbox .jq-selectbox__trigger-arrow {
+  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+}
+.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+  border-top-color: #df873d;
 }
 .cid-qV1wzpQ4tF .navbar {
   background: #ffffff;
