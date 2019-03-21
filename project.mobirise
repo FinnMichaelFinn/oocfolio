@@ -1354,7 +1354,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "EmbeddedAI Opener<br>",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Motion Graphics",
@@ -1366,8 +1366,60 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "EmbeddedAI Opener<br>",
+                "caption": "Solidarity Spy",
                 "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019221-1810252019-2-4-18-17-31.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/IjRYX3DpmRs",
+                "image": "@PROJECT_PATH@/assets/images/food-and-medical-outreach-548x990.png",
+                "thumb": "@PROJECT_PATH@/assets/images/food-and-medical-outreach-548x990-548x990.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Food and Medical Outreach",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019221-1810252019-2-4-18-26-3.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/GU1BoR50Acs",
+                "image": "@PROJECT_PATH@/assets/images/plethora-farms-552x985.png",
+                "thumb": "@PROJECT_PATH@/assets/images/plethora-farms-552x985-552x985.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Plethora Farms",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019221-1810252019-2-4-18-30.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/3LD7qfEZlFs",
+                "image": "@PROJECT_PATH@/assets/images/food-and-medical-outreach-video-ii-546x979.png",
+                "thumb": "@PROJECT_PATH@/assets/images/food-and-medical-outreach-video-ii-546x979-546x979.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Food and Medical Outreach",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019221-1810252019-2-4-18-32-57.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/ImYhcBuSE84",
+                "image": "@PROJECT_PATH@/assets/images/cakesbybukky-543x980.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cakesbybukky-543x980-543x980.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "CakesByBukky",
+                "active": true
               }
             ]
           }
