@@ -950,7 +950,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "T-Shirt Designs",
+                "caption": "AfricansBuildAfrica",
                 "active": false
               },
               {
@@ -1419,7 +1419,85 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "CakesByBukky",
+                "active": false
+              },
+              {
+                "tags": "Prints",
+                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/i-can-only-smoke-signal-3d-vinyl-2000x1417.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/i-can-only-smoke-signal-3d-vinyl-2000x1417-800x567.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Track Cover",
+                "active": false
+              },
+              {
+                "tags": "Prints",
+                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/bof-1680x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bof-1680x1000-800x476.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Bureau of Finance",
+                "active": false
+              },
+              {
+                "tags": "Prints",
+                "videoPreview": "@THEME_PATH@/components/_images/logo.jpg",
+                "playVideo": false,
+                "videoUrl": "",
+                "image": "@PROJECT_PATH@/assets/images/hugs-selfies-1578x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hugs-selfies-1578x700-800x355.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Church Invitation Card",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019416-1247542019-4-4-14-27-32.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/jp7jpdUecmM",
+                "image": "@PROJECT_PATH@/assets/images/capture-1920x951.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-1920x951-800x396.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "DeenBalo Car Auction",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019416-1247542019-4-4-14-43-55.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/MdfCAo2tx3o",
+                "image": "@PROJECT_PATH@/assets/images/inspirational-fixer-1918x950.png",
+                "thumb": "@PROJECT_PATH@/assets/images/inspirational-fixer-1918x950-800x396.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Inspiration Fixer Story Video",
                 "active": true
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019416-1247542019-4-4-14-32-56.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/HePbB0Lz9V0",
+                "image": "@PROJECT_PATH@/assets/images/inspirational-fixer-1918x950.png",
+                "thumb": "@PROJECT_PATH@/assets/images/inspirational-fixer-1918x950-800x396.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Event Speaker Callups",
+                "active": false
               }
             ]
           }
