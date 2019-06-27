@@ -824,6 +824,19 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019527-527162019-5-4-5-33-41.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/GrYcaYQ7FcI?list=PLOWdWrVM2tHNug95gV2_2RbQ_xrix9DXL",
+                "image": "@PROJECT_PATH@/assets/images/capture-1138x646.png",
+                "thumb": "@PROJECT_PATH@/assets/images/capture-1138x646-800x454.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Agric-tech Company",
+                "active": false
+              },
+              {
                 "tags": "Brands",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1484,7 +1497,7 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Inspiration Fixer Story Video",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Motion Graphics",
@@ -1498,6 +1511,32 @@
                 "customStyle1": "display-7",
                 "caption": "Event Speaker Callups",
                 "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019527-527162019-5-4-5-48-16.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/implxYNgy5s?list=PLOWdWrVM2tHNug95gV2_2RbQ_xrix9DXL",
+                "image": "@PROJECT_PATH@/assets/images/aba-1115x635.png",
+                "thumb": "@PROJECT_PATH@/assets/images/aba-1115x635-800x456.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "NGO Campaign",
+                "active": false
+              },
+              {
+                "tags": "Motion Graphics",
+                "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019527-527162019-5-4-5-50-44.jpg",
+                "playVideo": true,
+                "videoUrl": "https://youtu.be/DgBvLi558Tc",
+                "image": "@PROJECT_PATH@/assets/images/greenroom-1126x636.png",
+                "thumb": "@PROJECT_PATH@/assets/images/greenroom-1126x636-800x452.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Church Series Intro",
+                "active": true
               }
             ]
           }
