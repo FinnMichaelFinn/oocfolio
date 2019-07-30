@@ -1041,7 +1041,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "Laundry service<br>",
+                "caption": "<a href=\"https://wasche.boughview.com/\" target=\"_blank\" class=\"text-white\">Laundry service</a><br>",
                 "active": false
               },
               {
@@ -1314,7 +1314,7 @@
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
-                "caption": "<a href=\"http://www.fbnmortgages.com/\" target=\"_blank\" class=\"text-white\">A Mortgage Bank</a>",
+                "caption": "A M<a href=\"http://www.fbnmortgages.com/\" target=\"_blank\" class=\"text-white\">ortgag</a>e Bank",
                 "active": false
               },
               {
