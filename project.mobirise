@@ -1019,7 +1019,7 @@
                 "active": false
               },
               {
-                "tags": "Websites",
+                "tags": "Web/Mobile App",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1029,10 +1029,10 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://cibng.org\" target=\"_blank\" class=\"text-white\">Financial institution (work in progress)</a><br>",
-                "active": false
+                "active": true
               },
               {
-                "tags": "Websites",
+                "tags": "Web/Mobile App",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1305,7 +1305,7 @@
                 "active": false
               },
               {
-                "tags": "Websites",
+                "tags": "Web/Mobile App",
                 "videoPreview": "@PROJECT_PATH@/assets/images/mobirise2019218-1841302019-2-2-10-42-57.jpg",
                 "playVideo": false,
                 "videoUrl": "https://youtu.be/bCOswmeYTR4",
@@ -1565,7 +1565,7 @@
                 "active": false
               },
               {
-                "tags": "Websites",
+                "tags": "Web/Mobile App",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -1575,7 +1575,20 @@
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "<a href=\"http://olanipekun.boughview.com\" target=\"_blank\" class=\"text-white\">A&nbsp;Legal Firm</a><br>",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Web/Mobile App",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/sivvar-803x535.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sivvar-803x535-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "<a href=\"http://bit.ly/sivvarappXD\" target=\"_blank\" class=\"text-white\">Data Calling App</a><br>",
+                "active": false
               }
             ]
           }
